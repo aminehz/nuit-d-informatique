@@ -1,0 +1,23 @@
+.navbarColor{
+  color: rgb(224, 111, 130) !important;
+}
+.navbarPosition{
+  margin-left: 450px;
+}
+.logoSize{
+  width: 200px;
+  height: 110px;
+}
+.App{
+  background-image: url('./components/images/bg.webp');
+  background-repeat: no-repeat !important;
+  background-size: 100% 110% !important;
+}
+.Footer{
+  background-color: rgb(183, 177, 177) !important;
+  height: 100px;
+}
+
+
+
+/*quiz */
